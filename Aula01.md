@@ -9,7 +9,8 @@
 # Objetivo: 
 Descrição curta do que foi executado e sua finalidade prática.
 
-# Ambiente: Especificação de hardware físico (Host), versão do VirtualBox, versão da ISO do S.O. e configurações da VM.
+# Ambiente: 
+Especificação de hardware físico (Host), versão do VirtualBox, versão da ISO do S.O. e configurações da VM.
 
 # Procedimento: 
 Passo a passo resumido com foco nos pontos críticos (particionamento LVM e criação do usuário administrador).
